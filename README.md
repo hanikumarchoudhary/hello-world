@@ -1,3 +1,4 @@
 # hello-world
 Hi Developer
-Java a back bone of all programming languages.Best in the market and intresting language among all his brothers.
+I am fresher in java but great clear vision on Collection and Multitreading in Java.Want to work and give my contribution if possible.
+
